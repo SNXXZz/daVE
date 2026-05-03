@@ -1,28 +1,46 @@
-# 🚀 Titre du Projet
-*Une brève phrase percutante décrivant ce que fait le projet.*
+# 🟩 FOOTEM — Premium Sports Templates
 
-[🏠 Site Web] | [📄 Documentation] | [🐛 Issues]
+Templates professionnels, modernes et adaptables pour contenus football (résultats, compos, breaking, miniatures, carrousels).
 
 ---
 
-## 📖 À propos
-Description détaillée de votre projet. Pourquoi l'avez-vous créé ? Quel problème résout-il ?
+## 🎯 Objectif du projet
 
-## ✨ Fonctionnalités
-- ✨ Fonctionnalité clé 1
-- ✨ Fonctionnalité clé 2
-- ✨ Fonctionnalité clé 3
+FOOTEM propose un système de templates :
+- **Universels** : adaptables à toutes les ligues et compétitions  
+- **Premium** : style clean, moderne, inspiré des médias pros  
+- **Rapides à utiliser** : prêts pour Canva, Photoshop et IA (Midjourney, SDXL, DALL·E)
 
-## 🛠️ Installation
-```bash
-# Exemple de commande
-git clone https://github.com
-cd votre-repo
-npm install
-```
+---
 
-## 🎮 Démo
-!https://canva.link/s062unajqeg63xo
+## 🎨 Identité visuelle
+
+- **Couleur signature** : vert Footem  
+- **Couleurs par compétition** :
+  - Ligue 1 : #091C3E 
+  - Premier League : #3D195B  
+  - Bundesliga : #D3010C  
+  - Copa del Rey : #CE0404  
+- Style : minimal, géométrique, lisible, orienté score & info
+
+---
+
+## 📁 Structure du dépôt
+
+- `templates/` — Templates (Canva / PSD / autres formats)
+- `assets/` — Logos, palettes, typographies
+- `examples/` — Exemples de rendus finaux
+- `prompts/` — Prompts IA pour générer des backgrounds / textures
+
+---
+
+## 🚀 Utilisation
+
+1. **Cloner le dépôt**  
+   ```bash
+   git clone https://github.com/ton-compte/footem-templates.git
+   cd footem-templates
+
 
 ## 👤 Contributeurs
 - snxxzz 
